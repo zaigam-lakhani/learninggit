@@ -1,4 +1,68 @@
-h1,p,body{
+/* h1,p,body{
     color: red;
     background-color: aqua;
+} */
+
+/* body{
+    background-color: blue;
+} */
+
+/* img {
+    width: 600px;
+}
+
+@media only screen and (max-width: 600px) {
+    /* body{
+        background-color: red;
+        } */
+
+    /* img {
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    img {
+        width: 200px;
+    }
+}  */
+
+/* .main{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    /* align-items: ; */
+/* }
+
+.one,.two,.three{
+    border: 2px solid red;
+    width: 250px;
+} */ 
+
+/* .two{
+    flex: 1;
+}
+.one{
+    flex: 3;
+}
+
+.three{
+    flex: 1;
+} */
+
+/* .red{
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+} */
+
+.col{
+    background-color: red;
 }
